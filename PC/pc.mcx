@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MCX>
+	<ProjectLocation>HMI_WJG0</ProjectLocation>
+	<ProjectIsConsistent>
+		1
+	</ProjectIsConsistent>
+	<SharedMcxLocation>
+	</SharedMcxLocation>
+	<ProjectLocationUNC>\\PC\WinCC_Project_HMI_WJG0</ProjectLocationUNC>
+	<RDP>
+		<LastModifiedDate>
+		2016-02-23 16:30:00
+	</LastModifiedDate>
+	</RDP>
+</MCX>

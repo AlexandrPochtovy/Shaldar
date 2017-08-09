@@ -1,0 +1,29 @@
+2017-03-31 14:51:25.162 [p=9952, t=0x26f8] General: Project opened, dsncs="CC_HMI_WJG0_17_03_31_14_44_39" path="\\TIA-PC\WinCC_Project_HMI_WJG0_1\HMI_WJG0.mcp"
+2017-03-31 14:51:25.220 [p=9952, t=0x26f8] Sync: No redundant partner configured
+2017-03-31 14:51:25.221 [p=9952, t=0x26f8] Sync: Loading redundancy configuration
+2017-03-31 14:51:25.274 [p=9952, t=0x26f8] Sync: Redundancy is not activated
+2017-03-31 14:51:25.277 [p=9952, t=0x26f8] General: Disconnecting configuration.
+2017-03-31 14:51:25.279 [p=9952, t=0x26f8] General: Connecting configuration.
+2017-03-31 14:51:25.756 [p=9952, t=0x26f8] General: Connecting to runtime database "CC_HMI_WJG0_17_03_31_14_44_39R" on instance "TIA-PC\WINCC"
+2017-03-31 14:51:25.823 [p=9952, t=0x26f8] General: Checking and upgrading archive table schemas
+2017-03-31 14:51:25.824 [p=9952, t=0x26f8] General: Archive table schemas are up to date now
+2017-03-31 14:51:26.080 [p=9952, t=0x26f8] CUAServer::ConnectLicenseServices
+2017-03-31 14:51:26.081 [p=9952, t=0x26f8] CUAServer::DisconnectLicenseServices
+2017-03-31 14:51:26.104 [p=9952, t=0x26f8] CoCreateInstance of CCLicense.CCLicense.1 succeeded.
+2017-03-31 14:51:26.106 [p=9952, t=0x26f8] CreateInstance of CLicenseTimerThread succeeded.
+2017-03-31 14:51:26.108 [p=9952, t=0x26f8] General: Start deactivating the project...
+2017-03-31 14:51:26.109 [p=9952, t=0x26f8] General: Project activated
+2017-03-31 14:51:26.110 [p=9952, t=0x26f8] Sync: Loading redundancy configuration
+2017-03-31 14:51:26.145 [p=9952, t=0x26f8] Sync: Redundancy is not activated
+2017-03-31 14:51:31.122 [p=9952, t=0x0d8c] CUAServer::OnLicenseCheck (first call).
+2017-03-31 14:51:31.124 [p=9952, t=0x0d8c] OnLicenseCheck: number of archives = 0.
+2017-03-31 14:52:21.297 [p=9952, t=0x270c] General: ProjectEvent: 3
+2017-03-31 14:54:01.395 [p=9952, t=0x270c] General: ProjectEvent: 4
+2017-03-31 14:54:01.405 [p=9952, t=0x270c] General: Start deactivating the project...
+2017-03-31 14:54:01.424 [p=9952, t=0x26f0] CUAServer::SendInvalidQCToPartner - On Deactivate send invalid QCs to partner
+2017-03-31 14:54:01.432 [p=9952, t=0x270c] General: Project deactivated
+2017-03-31 14:54:35.046 [p=9952, t=0x270c] General: ProjectEvent: 2
+2017-03-31 14:54:35.057 [p=9952, t=0x270c] General: Start closing the project...
+2017-03-31 14:54:35.057 [p=9952, t=0x270c] General: Start deactivating the project...
+2017-03-31 14:54:35.057 [p=9952, t=0x270c] CUAServer::DisconnectLicenseServices
+2017-03-31 14:54:35.277 [p=9952, t=0x270c] General: Disconnecting configuration.

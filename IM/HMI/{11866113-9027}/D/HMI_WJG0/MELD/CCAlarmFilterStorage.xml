@@ -1,0 +1,146 @@
+﻿<CCAlarmFilterStorage>
+  <CCAlarmFilter>
+    <Name>блок учета расхода газа</Name>
+    <SQL>Text2 LIKE 'блок учета расхода газа'</SQL>
+    <Comment>место срабатывания</Comment>
+    <CreateUser>sharp</CreateUser>
+    <CreateDate>08.10.2015 13:10:13</CreateDate>
+    <LastUser>sharp</LastUser>
+    <LastDate>08.10.2015 13:25:02</LastDate>
+  </CCAlarmFilter>
+  <CCAlarmFilter>
+    <Name>блок одоризации</Name>
+    <SQL>Text2 LIKE 'блок одоризации'</SQL>
+    <Comment>место срабатывания</Comment>
+    <CreateUser>sharp</CreateUser>
+    <CreateDate>08.10.2015 13:12:43</CreateDate>
+    <LastUser>sharp</LastUser>
+    <LastDate>08.10.2015 13:25:07</LastDate>
+  </CCAlarmFilter>
+  <CCAlarmFilter>
+    <Name>блок операторной</Name>
+    <SQL>Text2 LIKE 'блок операторной'</SQL>
+    <Comment>место срабатывания</Comment>
+    <CreateUser>sharp</CreateUser>
+    <CreateDate>08.10.2015 13:13:16</CreateDate>
+    <LastUser>sharp</LastUser>
+    <LastDate>08.10.2015 13:25:09</LastDate>
+  </CCAlarmFilter>
+  <CCAlarmFilter>
+    <Name>блок поточного анализа</Name>
+    <SQL>Text2 LIKE 'блок поточного анализа'</SQL>
+    <Comment>место срабатывания</Comment>
+    <CreateUser>sharp</CreateUser>
+    <CreateDate>08.10.2015 13:14:06</CreateDate>
+    <LastUser>sharp</LastUser>
+    <LastDate>08.10.2015 13:25:10</LastDate>
+  </CCAlarmFilter>
+  <CCAlarmFilter>
+    <Name>блок подготовки теплоносителя</Name>
+    <SQL>Text2 LIKE 'блок подготовки теплоносителя'</SQL>
+    <Comment>место срабатывания</Comment>
+    <CreateUser>sharp</CreateUser>
+    <CreateDate>08.10.2015 13:16:00</CreateDate>
+    <LastUser>sharp</LastUser>
+    <LastDate>08.10.2015 13:25:10</LastDate>
+  </CCAlarmFilter>
+  <CCAlarmFilter>
+    <Name>узел очистки</Name>
+    <SQL>Text2 LIKE 'узел очистки'</SQL>
+    <Comment>место срабатывания</Comment>
+    <CreateUser>sharp</CreateUser>
+    <CreateDate>08.10.2015 13:16:41</CreateDate>
+    <LastUser>sharp</LastUser>
+    <LastDate>08.10.2015 13:25:11</LastDate>
+  </CCAlarmFilter>
+  <CCAlarmFilter>
+    <Name>аккумулятор импульсного газа</Name>
+    <SQL>Text2 LIKE 'аккумулятор импульсного газа'</SQL>
+    <Comment>место срабатывания</Comment>
+    <CreateUser>sharp</CreateUser>
+    <CreateDate>08.10.2015 13:17:01</CreateDate>
+    <LastUser>sharp</LastUser>
+    <LastDate>08.10.2015 13:25:12</LastDate>
+  </CCAlarmFilter>
+  <CCAlarmFilter>
+    <Name>узел подогрева</Name>
+    <SQL>Text2 LIKE 'узел подогрева'</SQL>
+    <Comment>место срабатывания</Comment>
+    <CreateUser>sharp</CreateUser>
+    <CreateDate>08.10.2015 13:21:15</CreateDate>
+    <LastUser>sharp</LastUser>
+    <LastDate>08.10.2015 13:25:13</LastDate>
+  </CCAlarmFilter>
+  <CCAlarmFilter>
+    <Name>узел редуцирования</Name>
+    <SQL>Text2 LIKE 'узел редуцирования'</SQL>
+    <Comment>место срабатывания</Comment>
+    <CreateUser>sharp</CreateUser>
+    <CreateDate>08.10.2015 13:21:41</CreateDate>
+    <LastUser>sharp</LastUser>
+    <LastDate>08.10.2015 13:25:13</LastDate>
+  </CCAlarmFilter>
+  <CCAlarmFilter>
+    <Name>узел переключения</Name>
+    <SQL>Text2 LIKE 'узел переключения'</SQL>
+    <Comment>место срабатывания</Comment>
+    <CreateUser>sharp</CreateUser>
+    <CreateDate>08.10.2015 13:22:08</CreateDate>
+    <LastUser>sharp</LastUser>
+    <LastDate>08.10.2015 13:25:14</LastDate>
+  </CCAlarmFilter>
+  <CCAlarmFilter>
+    <Name>шкаф управления</Name>
+    <SQL>Text2 LIKE 'шкаф управления'</SQL>
+    <Comment>место срабатывания</Comment>
+    <CreateUser>sharp</CreateUser>
+    <CreateDate>08.10.2015 13:22:37</CreateDate>
+    <LastUser>sharp</LastUser>
+    <LastDate>08.10.2015 13:25:16</LastDate>
+  </CCAlarmFilter>
+  <CCAlarmFilter>
+    <Name>Авария</Name>
+    <SQL>Class = 1</SQL>
+    <Comment>класс тревоги</Comment>
+    <CreateUser>sharp</CreateUser>
+    <CreateDate>08.10.2015 13:33:06</CreateDate>
+    <LastUser>sharp</LastUser>
+    <LastDate>08.10.2015 13:33:36</LastDate>
+  </CCAlarmFilter>
+  <CCAlarmFilter>
+    <Name>Предупрежение</Name>
+    <SQL>Class = 2</SQL>
+    <Comment>класс тревоги</Comment>
+    <CreateUser>sharp</CreateUser>
+    <CreateDate>08.10.2015 13:34:20</CreateDate>
+    <LastUser>sharp</LastUser>
+    <LastDate>08.10.2015 13:34:40</LastDate>
+  </CCAlarmFilter>
+  <CCAlarmFilter>
+    <Name>Система</Name>
+    <SQL>Class = 3</SQL>
+    <Comment>класс тревоги</Comment>
+    <CreateUser>sharp</CreateUser>
+    <CreateDate>08.10.2015 13:34:41</CreateDate>
+    <LastUser>sharp</LastUser>
+    <LastDate>08.10.2015 13:36:06</LastDate>
+  </CCAlarmFilter>
+  <CCAlarmFilter>
+    <Name>Диагностика</Name>
+    <SQL>Class = 4</SQL>
+    <Comment>класс тревоги</Comment>
+    <CreateUser>sharp</CreateUser>
+    <CreateDate>08.10.2015 13:35:01</CreateDate>
+    <LastUser>sharp</LastUser>
+    <LastDate>08.10.2015 13:36:08</LastDate>
+  </CCAlarmFilter>
+  <CCAlarmFilter>
+    <Name>Управление</Name>
+    <SQL>Class = 64</SQL>
+    <Comment>класс тревоги</Comment>
+    <CreateUser>sharp</CreateUser>
+    <CreateDate>08.10.2015 13:35:44</CreateDate>
+    <LastUser>sharp</LastUser>
+    <LastDate>08.10.2015 13:36:09</LastDate>
+  </CCAlarmFilter>
+</CCAlarmFilterStorage>
